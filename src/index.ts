@@ -1,2 +1,2 @@
-let newArr: [number, string, boolean] = [1, '23', true]
-console.log(newArr);
+enum nuum { one = 2, two, three }
+console.log(nuum); 
